@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9CasZqyY4pOQYxnyZygHabHxNzmnZD//BBOt6oKvBC9kL7KVXo4kVQhs/nBhZn8MQ4KHv+zwCMBJq9DuGCIzFA==",
+  "dgSpecHash": "5HFL874bD1o/Ozl27Ijpjkl+2GwUOVOn+zmFT/mvdwqOX9++FLwjXjOZfJRcYWH2N+5x8vRyMyHfM0Vt7cs6ew==",
   "success": true,
   "projectFilePath": "C:\\Users\\balivn01\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\balivn01\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\balivn01\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.1\\microsoft.netcore.app.runtime.win-x64.5.0.1.nupkg.sha512",
+    "C:\\Users\\balivn01\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.1.nupkg.sha512",
+    "C:\\Users\\balivn01\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.1\\microsoft.aspnetcore.app.runtime.win-x64.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

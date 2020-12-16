@@ -1,0 +1,12 @@
+C:\Users\balivn01\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\netstandard21\OdeToFood.Data.deps.json
+C:\Users\balivn01\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\netstandard21\OdeToFood.Data.dll
+C:\Users\balivn01\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\netstandard21\OdeToFood.Data.pdb
+C:\Users\balivn01\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\netstandard21\OdeToFood.Core.dll
+C:\Users\balivn01\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\netstandard21\OdeToFood.Core.pdb
+C:\Users\balivn01\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netstandard21\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\balivn01\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netstandard21\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\balivn01\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netstandard21\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\balivn01\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netstandard21\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\balivn01\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netstandard21\OdeToFood.Data.csproj.CopyComplete
+C:\Users\balivn01\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netstandard21\OdeToFood.Data.dll
+C:\Users\balivn01\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netstandard21\OdeToFood.Data.pdb
